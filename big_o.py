@@ -15,3 +15,5 @@ def fact2(n):
         return n* fact2(n-1)
 
 print (fact2(5))
+
+# another Big O(log n) example
